@@ -10,7 +10,7 @@
 <br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-## 🙋‍♂️ About Me
+<img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> ##  About Me
 
 - 💬 Ask me about **Dart**.
 
