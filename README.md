@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Natan</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+about+dart+flutter; analysis+and+systems+development+student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;analysis+and+ systems+development+student"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natanvalimcardoso&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
