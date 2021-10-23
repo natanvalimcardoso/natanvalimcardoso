@@ -23,7 +23,6 @@
 
 - 🌳 Contact **https://linktr.ee/natanvalim**.
 
-- 🌿 Life is Beautiful.
 
 <br/>
 <br/>
