@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Natan</h1>
 
-<h3 align="center">I'm a passionate Front End Developer from Brazil. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3>
+<h3 align="center">I'm a passionate Front End Developer from Brazil. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natanvalimcardoso&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
 <br/>
