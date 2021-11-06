@@ -49,7 +49,8 @@
 <br/>
   
 <h1 align="center"> My Github Stats </h1>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/>
 
   <br/>
     <a href="https://github.com/natanvalimcardoso/github-readme-stats"><img alt="natanvalimcardoso Github Stats" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" 
