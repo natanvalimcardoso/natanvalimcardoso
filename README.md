@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Natan</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o Natan</h1>
 
-<h3 align="center">I'm a passionate Front End Developer from Brazil. </h3>
+<h3 align="center"> Um desenvolvedor apaixonado pelo front-end com Flutter. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natanvalimcardoso&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm 20 years old, and i'm currently studying analysis and systems development in addition to taking a course on Dart & Flutter. I'm in the beginning of my career and I am open to any type of opportunity that can add something to my career besides having a chance to talk more about how my skills and knowledge can contribute to the growth of the company.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 20 anos e atualmente estou cursando análise e desenvolvimento de sistemas, além de fazer vários cursos sobre Dart & Flutter. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha carreira, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
 
 
 <br/>
@@ -13,15 +13,15 @@
   
    <b> About Me </b>
 
-- 💬 Ask me about **Dart**.
+- 💬 Converse comigo de **Dart**.
 
-- 📫 My email **natanvalimcardoso@hotmail.com**.
+- 📫 Meu email **natanvalimcardoso@hotmail.com**.
 
-- 🔭 I'm currently learning **Flutter**.
+- 🔭 Atualmente estou aprendendo **Flutter**.
 
-- 👨‍🎓 Analysis and Systems Development at **ULBRA**.
+- 👨‍🎓 Análise e Desenvolvimento de Sistemas na **ULBRA**.
 
-- 🌳 Contact **https://linktr.ee/natanvalim**.
+- 🌳 Contato: **https://linktr.ee/natanvalim**.
 
 
 <br/>
