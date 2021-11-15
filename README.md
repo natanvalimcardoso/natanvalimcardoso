@@ -15,14 +15,13 @@
 
 - 💬 Converse comigo de **Dart**.
 
-- 📫 Meu email **natanvalimcardoso@hotmail.com**.
+- 📫 Email: **natanvalimcardoso@hotmail.com**.
 
 - 🔭 Atualmente estou aprendendo **Flutter**.
 
-- 👨‍🎓 Análise e Desenvolvimento de Sistemas na **ULBRA**.
-
 - 🌳 Contato: **https://linktr.ee/natanvalim**.
 
+- 👨‍🎓 Análise e Desenvolvimento de Sistemas na **ULBRA**.
 
 <br/>
 <br/>
