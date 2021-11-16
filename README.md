@@ -11,8 +11,7 @@
 <br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-   <h3> About Me </h3>
-<br/>
+   <h3> Sobre mim </h3>
 
 - 💬 Converse comigo de **Dart**.
 
