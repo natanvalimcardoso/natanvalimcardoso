@@ -60,5 +60,4 @@
 </p>
   <br/>
 
-
  <p align="center"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction."</i> </p>
