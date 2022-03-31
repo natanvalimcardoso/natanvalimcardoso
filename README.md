@@ -13,7 +13,7 @@
   
    <h3> Sobre mim </h3>
 
-- 💬 Converse comigo de **Dart**.
+- 💬 Desenvolvedor na Petize.
 
 - 📫 Email: **natanvalimcardoso@hotmail.com**.
 
