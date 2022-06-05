@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o Natan</h1>
+<h1> Eu sou o Natan</h1>
 
 <h3 align="center"> Um desenvolvedor apaixonado pelo mobile com Flutter. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natanvalimcardoso&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
