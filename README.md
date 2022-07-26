@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo!!!</h1>
+<h1 align="center">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="44px" height="44px">,</h1>
 
 <h3 align="center"> Um desenvolvedor apaixonado pelo mobile com Flutter! </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=natanvalimcardoso&label=Profile%20views&color=0e75b6&style=flat" alt="natan" /> </p>
