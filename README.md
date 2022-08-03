@@ -5,7 +5,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 21 anos e atualmente estou cursando análise e desenvolvimento de sistemas e trabalhando na Petize, além de fazer vários cursos sobre Dart & Flutter. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa!.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 21 anos e atualmente estou cursando análise e desenvolvimento de sistemas na Ulbra e trabalhando na Petize, além de fazer vários cursos sobre Dart & Flutter. Estou no início da minha carreira e estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa!.
 
 
 <br/>
