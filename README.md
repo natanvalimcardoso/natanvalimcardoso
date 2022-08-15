@@ -50,10 +50,7 @@
   
 <h1 align="center"> My Github Stats </h1>
   
-  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/>
-  </p>
-  <br/>
+
 
   <p align="center">
 <a href="https://github.com/natanvalimcardoso/github-readme-activity-graph"><img alt="natanvalimcardoso Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=natanvalimcardoso&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
