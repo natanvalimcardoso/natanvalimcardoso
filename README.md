@@ -50,6 +50,12 @@
   
 <h1 align="center"> My Github Stats </h1>
   
+  <div align="center">
+  <a href="github.com/natanvalimcardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=dark"/></a>
+</div>
+  
 
 
   <p align="center">
