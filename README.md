@@ -13,7 +13,7 @@
   
    <h3> Sobre mim </h3>
 
-- 💬 Desenvolvedor na Petize.
+- 💬 Desenvolvedor Flutter na Petize.
 
 - 📫 Email: **natanvalimcardoso@hotmail.com**.
 
