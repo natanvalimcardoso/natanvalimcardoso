@@ -17,7 +17,7 @@
 
 - 📫 Email: **natanvalimcardoso@hotmail.com**.
 
-- 🔭 Atualmente estou aprendendo **Flutter**.
+- 🔭 Atualmente estou aprendendo **Flutter e Dart**.
 
 - 🌳 Contato: **https://linktr.ee/natanvalim**.
 
