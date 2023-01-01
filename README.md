@@ -13,7 +13,7 @@
   
    <h3> Sobre mim </h3>
 
-- 💬 Desenvolvedor Flutter na Dragon Venture.
+- 💬 Desenvolvedor Flutter na Dragon Venture Capital.
 
 - 📫 Email: **natanvalimcardoso@hotmail.com**.
 
