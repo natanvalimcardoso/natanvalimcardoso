@@ -51,10 +51,9 @@
 <h1 align="center"> My Github Stats </h1>
   
 <div>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=329BC8&text_color=ffffff&icon_color=329BC8&border_color=329BC8&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=github_dark&title_color=329BC8&text_color=ffffff&border_color=329BC8&locale=pt-br"/>
-  </a>
+  <a href="https://github.com/natanvalimcardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanvalimcardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanvalimcardoso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 
