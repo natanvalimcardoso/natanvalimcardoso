@@ -51,12 +51,6 @@
   
 <h1 align="center"> My Github Stats </h1>
   
-  
-
-
-  <p align="center">
-<a href="https://github.com/natanvalimcardoso/github-readme-activity-graph"><img alt="natanvalimcardoso Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=natanvalimcardoso&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-  <br/>
+ 
 
  <p align="center"> <i>"You have to wake up each morning with determination if you intend to go to bed with satisfaction..."</i> </p>
