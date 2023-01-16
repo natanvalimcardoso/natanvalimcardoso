@@ -5,7 +5,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 22 anos e atualmente estou cursando análise e desenvolvimento de sistemas na Ulbra e trabalhando, além de estudar Flutter diariamente. Estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 21 anos e atualmente estou cursando análise e desenvolvimento de sistemas na Ulbra e trabalhando, além de estudar Flutter diariamente. Estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa.
 
 
 <br/>
