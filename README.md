@@ -5,7 +5,13 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá, tenho 23 anos e atualmente sou formado em análise e desenvolvimento de sistemas na Ulbra e trabalhando na Dragon Venture, além de estudar Flutter diariamente. Estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha profissão, além de ter a chance de falar mais sobre como minhas habilidades e conhecimentos podem contribuir para o crescimento da empresa..
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sou desenvolvedor mobile especializado em Flutter com mais de 3.5 anos de experiência criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
+
+Atualmente, atuo como desenvolvedor Flutter pleno na Dragon Venture, onde lidero o desenvolvimento do app Mobo e contribuo ativamente em projetos como EasyAba e Iziline. Também tenho experiência como freelancer, tendo entregue soluções completas para empresas como Voxer e Expert-Vision.
+
+Minhas principais habilidades incluem arquitetura limpa (Clean Architecture), gerenciamento de estado com GetX, BLoC, Provider e Modular, integração com APIs RESTful, CI/CD com Codemagic, testes automatizados e desenvolvimento de interfaces responsivas a partir de Figma.
+
+Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos desafios que me permitam evoluir como profissional. Estou aberto a aprender novas tecnologias, stacks ou até mesmo explorar outras áreas dentro do desenvolvimento de software — sempre com o objetivo de gerar valor real para os usuários e os negócios.
 
 
 <br/>
