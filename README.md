@@ -5,9 +5,9 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sobre: https://linktr.ee/natanvalim
+Sobre: https://linktr.ee/natanvalim
 
-Olá! Aos 24 anos, sou desenvolvedor mobile especializado com mais de 3.5 anos de experiência em Flutter criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá! Aos 24 anos, sou desenvolvedor mobile especializado com mais de 3.5 anos de experiência em Flutter criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
 
 Atualmente, atuo como desenvolvedor Flutter pleno na Dragon Venture, onde lidero o desenvolvimento do app Mobo e contribui ativamente em projetos como EasyAba e Iziline. Também tenho experiência como freelancer, tendo entregue soluções completas para empresas como Voxer e Expert-Vision (Seu Curso Digital, Beharv e Botanic) além de dar manutenção em todos projetos legados dessa empresa.
 
