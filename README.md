@@ -5,11 +5,13 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sou desenvolvedor mobile especializado em Flutter com mais de 3.5 anos de experiência criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sobre: https://linktr.ee/natanvalim
 
-Atualmente, atuo como desenvolvedor Flutter pleno na Dragon Venture, onde lidero o desenvolvimento do app Mobo e contribuo ativamente em projetos como EasyAba e Iziline. Também tenho experiência como freelancer, tendo entregue soluções completas para empresas como Voxer e Expert-Vision.
+Olá! Aos 24 anos, sou desenvolvedor mobile especializado com mais de 3.5 anos de experiência em Flutter criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
 
-Minhas principais habilidades incluem arquitetura limpa (Clean Architecture), gerenciamento de estado com GetX, BLoC, Provider e Modular, integração com APIs RESTful, CI/CD com Codemagic, testes automatizados e desenvolvimento de interfaces responsivas a partir de Figma.
+Atualmente, atuo como desenvolvedor Flutter pleno na Dragon Venture, onde lidero o desenvolvimento do app Mobo e contribui ativamente em projetos como EasyAba e Iziline. Também tenho experiência como freelancer, tendo entregue soluções completas para empresas como Voxer e Expert-Vision (Seu Curso Digital, Beharv e Botanic) além de dar manutenção em todos projetos legados dessa empresa.
+
+Minhas principais habilidades incluem arquitetura limpa (Clean Architecture), gerenciamento de estado com GetX, BLoC, Change Notifier etc... Provider e Modular, Getit,  integração com APIs RESTful, CI/CD com Codemagic, testes automatizados e desenvolvimento de interfaces responsivas a partir de Figma.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos desafios que me permitam evoluir como profissional. Estou aberto a aprender novas tecnologias, stacks ou até mesmo explorar outras áreas dentro do desenvolvimento de software — sempre com o objetivo de gerar valor real para os usuários e os negócios.
 
