@@ -19,15 +19,15 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de
   
    <h3> Sobre mim: </h3>
 
-- 💬 Desenvolvedor Flutter na Dragon Venture Capital.
+- 💬 Desenvolvedor Flutter Pleno.
 
 - 📫 Email: **natanvalimcardoso@hotmail.com**.
 
-- 🔭 Atualmente estou aprendendo **Flutter e Dart**.
+- 🔭 Sempre nos estudos sobre o **Flutter e Dart**.
 
 - 🌳 Contato: **https://linktr.ee/natanvalim**.
 
-- 👨‍🎓 Análise e Desenvolvimento de Sistemas na **ULBRA**.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na **ULBRA**.
 
 <br/>
 <br/>
