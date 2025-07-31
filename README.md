@@ -11,7 +11,7 @@ Liderei o desenvolvimento do Mobo, cuidando da CI/CD no Codemagic, integração 
 
 Cada projeto traz seus desafios — especialmente ao lidar com código legado. Isso me ensinou a ser paciente, pensar estrategicamente e buscar refatorações conscientes e sustentáveis (Sempre estou de olho nas atualizações do Flutter, novos padrões e possíveis melhorias.
 
-Tenho experiência sólida com Clean Architecture, gerenciamento de estado (BLoC, Provider, Modular, GetX), injeção de dependências com GetIt, Modular além de domínio em testes (unitários, widget e integração) e na transformação de designs Figma em interfaces intuitivas e acessíveis.
+Tenho experiência sólida com Clean Architecture, gerenciamento de estado (BLoC, Provider, Modular, Change Notifier, Value Notifier...), injeção de dependências com GetIt, Modular além de domínio em testes (unitários, widget e integração) e na transformação de designs Figma em interfaces intuitivas e acessíveis.
 
 Sou graduado em Análise e Desenvolvimento de Sistemas e estou sempre aprendendo novas arquiteturas, metodologias e ferramentas para escrever códigos mais limpos e eficientes.
 
