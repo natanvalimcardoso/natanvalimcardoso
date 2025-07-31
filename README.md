@@ -5,13 +5,19 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Olá! Aos 24 anos, sou desenvolvedor mobile especializado com mais de 3.5 anos de experiência em Flutter criando soluções multiplataforma de alta performance para Android, iOS e Web. Tenho paixão por transformar ideias em aplicativos intuitivos, funcionais e escaláveis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde meus primeiros projetos com Flutter, descobri que transformar ideias em aplicativos bem feitos me dá uma sensação única de realização. Aos 24 anos, acumulo mais de 4 anos dedicados ao desenvolvimento mobile com Flutter, atendendo Android, iOS e Web com foco em desempenho, qualidade visual e fidelidade ao Figma (que também domino).
 
-Atualmente, atuo como desenvolvedor Flutter pleno na Dragon Venture, onde lidero o desenvolvimento do app Mobo e contribui ativamente em projetos como EasyAba e Iziline. Também tenho experiência como freelancer, tendo entregue soluções completas para empresas como Voxer e Expert-Vision (Seu Curso Digital, Beharv e Botanic) além de dar manutenção em todos projetos legados dessa empresa.
+Liderei o desenvolvimento do Mobo, cuidando da CI/CD no Codemagic, integração com APIs e testes automatizados. Também contribuí em projetos como EasyAba e Iziline, e trabalhei como freelancer em soluções completas para Voxer e Expert‑Vision (Seu Curso Digital, Beharv, Botanic), além de dar continuidade a sistemas existentes.
 
-Minhas principais habilidades incluem arquitetura limpa (Clean Architecture), gerenciamento de estado com GetX, BLoC, Change Notifier etc... Provider e Modular, Getit,  integração com APIs RESTful, CI/CD com Codemagic, testes automatizados e desenvolvimento de interfaces responsivas a partir de Figma.
+Cada projeto traz seus desafios — especialmente ao lidar com código legado. Isso me ensinou a ser paciente, pensar estrategicamente e buscar refatorações conscientes e sustentáveis (Sempre estou de olho nas atualizações do Flutter, novos padrões e possíveis melhorias.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos desafios que me permitam evoluir como profissional. Estou aberto a aprender novas tecnologias, stacks ou até mesmo explorar outras áreas dentro do desenvolvimento de software — sempre com o objetivo de gerar valor real para os usuários e os negócios.
+Tenho experiência sólida com Clean Architecture, gerenciamento de estado (BLoC, Provider, Modular, GetX), injeção de dependências com GetIt, Modular além de domínio em testes (unitários, widget e integração) e na transformação de designs Figma em interfaces intuitivas e acessíveis.
+
+Sou graduado em Análise e Desenvolvimento de Sistemas e estou sempre aprendendo novas arquiteturas, metodologias e ferramentas para escrever códigos mais limpos e eficientes.
+
+Se você busca alguém que gosta de ensinar sobre o Flutter, entrega projetos com qualidade, tem comprometimento e ama o que faz, vamos conversar!
+
+natancardosovalim@gmail.com | +55 48 99174 9818 | linktr.ee/natanvalim
 
 
 <br/>
